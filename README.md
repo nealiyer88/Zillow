@@ -283,3 +283,9 @@ Each model’s performance was evaluated using these metrics:
 Based on the analysis, **94803 and 96716** stand out as the top zip codes for investment, given their consistent, predictable growth trends under the SARIMA model. These areas are recommended for investors seeking stable, seasonally-influenced returns. For **02116, 31527, and 96722**, ARIMA offers valuable insights but indicates a potential for more price fluctuations, making these regions better suited for investors open to a moderate level of risk in exchange for potentially higher returns.
 
 By combining ARIMA and SARIMA, this hybrid approach optimized forecast accuracy, providing reliable insights to aid stakeholders in data-driven, strategic investment decisions.
+
+
+## Repository Navigation
+- **Zillow.ipynb**: Main notebook for analysis and model building.
+- **Images/**: Folder containing visuals generated in the analysis.
+- **Data/**: Raw data files used in this analysis.

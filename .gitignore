@@ -1,0 +1,41 @@
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Jupyter Notebook-specific files
+*.nbconvert.ipynb
+*.nb.html
+*.nbconvert/
+
+# Ignore data files
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.xls
+
+# Ignore large data files and intermediate results
+data/
+output/
+results/
+
+# Ignore specific notebook files if needed
+Zillow.ipynb
+
+# Ignore virtual environments
+env/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore Python dependencies
+Pipfile.lock
+poetry.lock
+requirements.txt

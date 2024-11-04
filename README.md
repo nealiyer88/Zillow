@@ -37,7 +37,7 @@ To ensure the data was relevant, consistent, and reflective of stable trends, se
 
    These regions showed the most substantial growth potential, making them ideal candidates for further evaluation.
 
-   ![ROI for Top 5 Zip Codes](images/ROI%20top%205.png)
+   ![ROI Top 5](Images/ROI%20top%205.png)
 
 By following these steps, we ensured that only relevant, recent data was included in the analysis, making it more likely to reflect stable investment potential rather than temporary price fluctuations.
 
@@ -50,9 +50,9 @@ Before choosing forecasting models, we performed two key types of tests to help 
 2. **Seasonality Tests**: Seasonality testing helped us identify zip codes with repeating patterns over certain months or seasons. Recognizing these patterns enabled us to select a model that could accurately account for seasonal price fluctuations.
 
 
-  ![ACF Plot](images/ACF.png)
+  ![ACF](Images/ACF.png)
 
-  ![PACF Plot](images/PACF.png)
+  ![PACF](Images/PACF.png)
 
 ### Model Selection: ARIMA and SARIMA
 Based on the results of these tests, we chose two primary forecasting models for our zip codes:
